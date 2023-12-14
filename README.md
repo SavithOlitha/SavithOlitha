@@ -3,6 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=savitholitha&label=Profile%20views&color=0e75b6&style=flat" alt="savitholitha" /> </p>
 
+| ![Savith's github stats](https://github-readme-stats.vercel.app/api?username=SavithOlitha&show_icons=true&theme=tokyonight) | ![Savith GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SavithOlitha&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavithOlitha&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SavithOlitha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+
 - 🌱 I’m currently learning **OOP with Java**
 
 - 👨‍💻 I’m undergraduate at [SLIIT](SLIIT)
